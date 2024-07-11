@@ -1,0 +1,13 @@
+﻿  源.c
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(34,48): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(35,35): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(35,55): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(47,51): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(47,75): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(57,39): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(69,8): error C2059: 语法错误:“<parameter-list>”
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(87,5): error C2084: 函数“int main()”已有主体
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(21): message : 参见“main”的前一个定义
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(91,16): error C2057: 应输入常量表达式
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(91,17): error C2466: 不能分配常量大小为 0 的数组
+D:\Github Desktop\Personal-code\汉诺塔问题\汉诺塔问题\源.c(91,10): error C2133: “walls”: 未知的大小

@@ -1,0 +1,4 @@
+﻿  源.c
+D:\Github Desktop\Personal-code\Project14\Project14\源.c(51,13): warning C4047: “函数”:“const char *const ”与“char”的间接级别不同
+D:\Github Desktop\Personal-code\Project14\Project14\源.c(51,12): warning C4024: “printf”: 形参和实参 1 的类型不同
+  Project14.vcxproj -> D:\Github Desktop\Personal-code\Project14\x64\Debug\Project14.exe
