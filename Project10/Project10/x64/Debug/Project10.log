@@ -1,0 +1,16 @@
+﻿  源.cpp
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(11,7): error C2065: “​”: 未声明的标识符
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(11,11): error C2146: 语法错误: 缺少“;”(在标识符“​if”的前面)
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(11,11): error C3861: “​if”: 找不到标识符
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(13,11): error C2059: 语法错误:“return”
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(16,7): error C2065: “​”: 未声明的标识符
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(16,14): error C2146: 语法错误: 缺少“;”(在标识符“​”的前面)
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(16,14): error C2065: “​”: 未声明的标识符
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(20,1): error C2146: 语法错误: 缺少“;”(在标识符“​”的前面)
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(20,1): error C2065: “​”: 未声明的标识符
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(20,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(22,5): error C2059: 语法错误:“return”
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(24,1): error C2059: 语法错误:“}”
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(24,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(30,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Github Desktop\Personal-code\Project10\Project10\源.cpp(30,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)

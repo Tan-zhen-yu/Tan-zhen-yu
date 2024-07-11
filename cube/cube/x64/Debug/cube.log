@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Github Desktop\Personal-code\cube\cube\源.cpp(73,8): warning C4101: “V”: 未引用的局部变量
+D:\Github Desktop\Personal-code\cube\cube\源.cpp(72,8): warning C4101: “S”: 未引用的局部变量
+  cube.vcxproj -> D:\Github Desktop\Personal-code\cube\x64\Debug\cube.exe

@@ -1,3 +1,7 @@
-﻿  test.cpp
-D:\Github Desktop\Personal-code\通讯录\通讯录\test.cpp(329,2): error C2181: 没有匹配 if 的非法 else
-D:\Github Desktop\Personal-code\通讯录\通讯录\test.cpp(324,60): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+﻿D:\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(通讯录.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.cpp
+  shu.cpp
+D:\Github Desktop\Personal-code\通讯录\通讯录\shu.cpp(349,8): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\Github Desktop\Personal-code\通讯录\通讯录\shu.cpp(370,8): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+D:\Github Desktop\Personal-code\通讯录\通讯录\shu.cpp(379): error C4716: “trans”: 必须返回一个值
